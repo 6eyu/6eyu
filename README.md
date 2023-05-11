@@ -1,5 +1,5 @@
 
-![](https://github-readme-stats.vercel.app/api?username=6eyu&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=6eyu&show_icons=true&count_private=true&theme=dracula)
 <!--
 **6eyu/6eyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
